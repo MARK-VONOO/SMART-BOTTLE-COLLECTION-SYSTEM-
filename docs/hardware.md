@@ -112,9 +112,6 @@ The bottle verification system uses a load cell connected through an HX711 load-
 | GND | Common Ground |
 
 The final bottle acceptance range used during system testing was:
-
-```text
-
 12 g to 30 g
 Objects weighing less than 12 g or greater than 30 g are rejected.
 
