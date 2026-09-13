@@ -329,7 +329,6 @@ const char* WIFI_SSID = "YOUR_WIFI_NAME";
 const char* WIFI_PASSWORD = "YOUR_WIFI_PASSWORD";
 const char* SMS_API_KEY = "PASTE_YOUR_API_KEY_HERE";
 
-📸 Project Gallery
 
 ## 📸 Project Gallery
 
