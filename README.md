@@ -1,4 +1,7 @@
 # ♻️ SMART BCS — Smart Bottle Collection System
+<p align="center">
+  <img src="images/smart-bcs-front.jpeg" width="650" alt="Completed SMART BCS">
+</p>
 
 > An intelligent ESP32-based plastic bottle collection and reward system that combines automated bottle verification, RFID identification, mechanical sorting, reward tracking, bin-level monitoring, and SMS receipts.
 
