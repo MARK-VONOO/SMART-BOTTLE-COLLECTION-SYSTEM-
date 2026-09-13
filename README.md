@@ -325,13 +325,55 @@ Authentication tokens
 Other sensitive credentials
 
 Example:
-
 const char* WIFI_SSID = "YOUR_WIFI_NAME";
 const char* WIFI_PASSWORD = "YOUR_WIFI_PASSWORD";
 const char* SMS_API_KEY = "PASTE_YOUR_API_KEY_HERE";
+
 📸 Project Gallery
 
-Photos of the completed SMART BCS, internal construction, electronic subsystems, mechanical sorting mechanism, RFID testing, load-cell testing, and system operation will be available in the /images directory.
+## 📸 Project Gallery
+
+### Completed SMART BCS
+
+<p align="center">
+  <img src="images/smart-bcs-front.jpeg" width="650" alt="Completed SMART BCS">
+</p>
+
+### Internal Structure
+
+<p align="center">
+  <img src="images/internal-structure.jpg" width="650" alt="SMART BCS internal structure">
+</p>
+
+### Internal Wiring
+
+<p align="center">
+  <img src="images/internal-wiring.jpg" width="650" alt="SMART BCS internal wiring">
+</p>
+
+### Servo Sorting Mechanism
+
+<p align="center">
+  <img src="images/servo-sorting-mechanism.jpg" width="650" alt="SMART BCS servo sorting mechanism">
+</p>
+
+### RFID Testing
+
+<p align="center">
+  <img src="images/rfid-testing.jpg" width="650" alt="SMART BCS RFID testing">
+</p>
+
+### Load-Cell Testing
+
+<p align="center">
+  <img src="images/load-cell-testing.jpg" width="650" alt="SMART BCS load-cell testing">
+</p>
+
+### SMS Receipt
+
+<p align="center">
+  <img src="images/sms-receipt.jpg" width="400" alt="SMART BCS SMS recycling receipt">
+</p>
 
 🤝 Collaboration
 
