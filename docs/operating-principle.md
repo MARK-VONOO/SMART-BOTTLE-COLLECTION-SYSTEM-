@@ -120,8 +120,6 @@ However:
 The weighing platform is continuously monitored through the load cell and HX711.
 
 An object-detection threshold of approximately:
-
-```text
 5 g
 is used to determine whether an item has been placed on the platform.
 Once an object is detected, SMART BCS begins the weighing and verification process.
