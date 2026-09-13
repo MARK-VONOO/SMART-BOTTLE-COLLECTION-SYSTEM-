@@ -49,7 +49,7 @@ this corresponds to:
 58 accepted bottle events
 Rejected bottles did not receive reward points.
 The stored balance was successfully retained across system restarts using ESP32 non-volatile storage.
-
+---
 
 3. Bottle Weight Testing
 
@@ -62,7 +62,7 @@ Measured empty 500 mL PET bottles during practical testing were approximately:
 These values were within the configured acceptance range.
 Objects below the lower limit were rejected as unsuitable items.
 Objects above the upper limit were rejected and the user was instructed to empty the bottle before trying again.
-
+---
 
 4. Load-Cell Calibration
 The HX711 was calibrated during development to obtain stable bottle-weight measurements.
@@ -75,7 +75,7 @@ The saved empty-platform offset used by the system was approximately:
 61479
 The system was configured not to automatically tare during startup because an object could already be present on the weighing platform.
 Instead, the stored offset is restored from non-volatile memory.
-
+---
 
 5. Startup Object Safety Test
 SMART BCS was tested with an object already present on the weighing platform during startup.
@@ -90,7 +90,7 @@ Was directed toward the rejection path
 Had to be cleared before normal operation resumed
 
 This test confirmed the effectiveness of the startup safety logic.
-
+---
 
 6. Servo Sorting Test
 The MG996R servo motor was tested for both bottle acceptance and rejection.
@@ -114,7 +114,7 @@ The reject position was reduced to approximately:
 140°
 which improved mechanical operation and reduced binding.
 Some early jams were also associated with bottles larger than the intended 500 mL bottle size.
-
+---
 
 7. RFID Testing
 The RC522 RFID reader was tested independently and as part of the complete SMART BCS system.
