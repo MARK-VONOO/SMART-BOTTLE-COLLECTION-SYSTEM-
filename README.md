@@ -331,7 +331,6 @@ const char* SMS_API_KEY = "PASTE_YOUR_API_KEY_HERE";
 
 ## 📸 Project Gallery
 
----
 ### Completed SMART BCS
 
 <p align="center">
@@ -341,37 +340,37 @@ const char* SMS_API_KEY = "PASTE_YOUR_API_KEY_HERE";
 ### Internal Structure
 
 <p align="center">
-  <img src="images/internal-structure.jpg" width="650" alt="SMART BCS internal structure">
+  <img src="images/internal-structure.jpeg" width="650" alt="SMART BCS internal structure">
 </p>
 
 ### Internal Wiring
 
 <p align="center">
-  <img src="images/internal-wiring.jpg" width="650" alt="SMART BCS internal wiring">
+  <img src="images/internal-wiring.jpeg" width="650" alt="SMART BCS internal wiring">
 </p>
 
 ### Servo Sorting Mechanism
 
 <p align="center">
-  <img src="images/servo-sorting-mechanism.jpg" width="650" alt="SMART BCS servo sorting mechanism">
+  <img src="images/servo-sorting-mechanism.jpeg" width="650" alt="SMART BCS servo sorting mechanism">
 </p>
 
 ### RFID Testing
 
 <p align="center">
-  <img src="images/rfid-testing.jpg" width="650" alt="SMART BCS RFID testing">
+  <img src="images/rfid-testing.jpeg" width="650" alt="SMART BCS RFID testing">
 </p>
 
 ### Load-Cell Testing
 
 <p align="center">
-  <img src="images/load-cell-testing.jpg" width="650" alt="SMART BCS load-cell testing">
+  <img src="images/load-cell-testing.jpeg" width="650" alt="SMART BCS load-cell testing">
 </p>
 
 ### SMS Receipt
 
 <p align="center">
-  <img src="images/sms-receipt.jpg" width="400" alt="SMART BCS SMS recycling receipt">
+  <img src="images/sms-receipt.jpeg" width="400" alt="SMART BCS SMS recycling receipt">
 </p>
 
 ## 🤝 Collaboration
