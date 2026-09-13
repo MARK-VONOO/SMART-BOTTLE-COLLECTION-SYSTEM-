@@ -451,6 +451,9 @@ Potential collaboration could include technical development, field testing, rese
 ---
 
 ## Author
+
 MARK VONOO
+
 SMART BCS — Smart Bottle Collection System
+
 Ghana
