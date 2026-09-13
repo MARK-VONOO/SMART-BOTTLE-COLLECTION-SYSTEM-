@@ -187,7 +187,9 @@ Buzzer	Audible feedback
 Buck Converter	Voltage regulation
 12 V Supply	Main external power source
 ---
+
 ## 🏗️ System Architecture
+
                          ┌──────────────┐
                          │    RFID      │
                          │   RC522      │
@@ -210,8 +212,10 @@ Buck Converter	Voltage regulation
                    ▼            ▼            ▼
              Bottle Sorting  SMS Service  User Points
 
+
 ---
 ## 📚 Technical Documentation
+
 For more detailed information about the SMART BCS design and implementation, see:
 
 - [Hardware Documentation](docs/hardware.md)
@@ -221,7 +225,6 @@ For more detailed information about the SMART BCS design and implementation, see
 - [System Architecture](diagrams/system-architecture.pdf)
 - [Electrical Schematic](diagrams/electrical-schematic.pdf)
 - [Public Firmware](firmware/smart_bcs_public.ino)
-
 ---
 ## 🧪 Testing & Results
 
