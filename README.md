@@ -390,5 +390,5 @@ Engineering Student | Embedded Systems & IoT | Automation | Sustainable Technolo
 
 📍 Ghana
 
-LinkedIn: [Add LinkedIn profile link](https://www.linkedin.com/in/mark-vonoo-67b017435?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-Medium: Add Medium profile link
+LinkedIn:(https://www.linkedin.com/in/mark-vonoo-67b017435?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+Medium: https://medium.com/@realmarkvonoo
